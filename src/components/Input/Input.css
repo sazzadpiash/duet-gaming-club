@@ -1,0 +1,81 @@
+.input-section {
+    padding: 30px;
+}
+
+.user-details h4 {
+    margin: 0px;
+}
+
+.user-info img {
+    width: 60px;
+    border-radius: 30%;  
+    margin-right: 8px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+}
+
+.bottom  {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.bottom p {
+    margin: 0px;
+    margin-top: 7px;
+}
+
+.breaks {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.break-btn  {
+    border: none;
+    padding: 17px 14px;
+    border-radius: 50px;
+    transition: 0.5s;
+    background-color: #7a2cbfc5;
+    color: #fff;
+}
+
+.break-btn:hover {
+    background-color: #5a189a;
+    color: #fff;
+    cursor: pointer;
+}
+
+.ex-time {
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 20px;
+    border-radius: 8px;
+}
+
+.active-btn {
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 30px;
+    font-size: 14px;
+    border: none;
+    background-color: #7a2cbfc5;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.active-btn:hover {
+    background-color: #5a189a;
+    cursor: pointer;
+}

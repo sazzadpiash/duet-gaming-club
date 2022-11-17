@@ -1,0 +1,38 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Push Up",
+      "time": 30,
+      "img": "./images/pushups.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a84d-a77b362d6ead",
+      "name": "Pull Up",
+      "time": 20,
+      "img": "./images/pullup.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a94d-a77b362d6ead",
+      "name": "Sit Up",
+      "time": 25,
+      "img": "./images/situp.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a75d-a77b362d6ead",
+      "name": "Squats",
+      "time": 30,
+      "img": "./images/squats.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a76d-a77b362d6ead",
+      "name": "Dumbbell Rows",
+      "time": 15,
+      "img": "./images/rows.jpeg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a77d-a77b362d6ead",
+      "name": "Planks",
+      "time": 10,
+      "img": "./images/planks.jpg"
+    }
+]

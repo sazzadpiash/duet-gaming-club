@@ -1,0 +1,15 @@
+.main {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.left-side {
+  padding: 50px;
+  background-color: rgb(236, 236, 236);
+}
+
+@media only screen and (max-width: 768px) {
+  .main {
+    display: block;
+  }
+}
